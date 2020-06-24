@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/COVID19React.git/static/css/main.68a52d7a.chunk.css",
+    "main.js": "/COVID19React.git/static/js/main.0c67d794.chunk.js",
+    "main.js.map": "/COVID19React.git/static/js/main.0c67d794.chunk.js.map",
+    "runtime-main.js": "/COVID19React.git/static/js/runtime-main.ad6a8eaf.js",
+    "runtime-main.js.map": "/COVID19React.git/static/js/runtime-main.ad6a8eaf.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/COVID19React.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9a13b7e2.chunk.js": "/COVID19React.git/static/js/2.9a13b7e2.chunk.js",
+    "static/js/2.9a13b7e2.chunk.js.map": "/COVID19React.git/static/js/2.9a13b7e2.chunk.js.map",
+    "index.html": "/COVID19React.git/index.html",
+    "precache-manifest.a8edba8d530b70218bfa3656f0697b1a.js": "/COVID19React.git/precache-manifest.a8edba8d530b70218bfa3656f0697b1a.js",
+    "service-worker.js": "/COVID19React.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/COVID19React.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.68a52d7a.chunk.css.map": "/COVID19React.git/static/css/main.68a52d7a.chunk.css.map",
+    "static/js/2.9a13b7e2.chunk.js.LICENSE.txt": "/COVID19React.git/static/js/2.9a13b7e2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad6a8eaf.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9a13b7e2.chunk.js",
+    "static/css/main.68a52d7a.chunk.css",
+    "static/js/main.0c67d794.chunk.js"
+  ]
+}

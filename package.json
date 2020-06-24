@@ -1,0 +1,53 @@
+{
+  "name": "coronatracker",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.5.0",
+    "chart.js": "^2.9.3",
+    "particles-bg": "^2.5.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.1",
+    "react-card-flip": "^1.0.10",
+    "react-chartjs-2": "^2.9.0",
+    "react-clock": "^2.4.0",
+    "react-coming-soon": "^1.0.6",
+    "react-countup": "^4.3.3",
+    "react-dom": "^16.13.1",
+    "react-flip-clock-en": "^1.0.6",
+    "react-flip-numbers": "^3.0.5",
+    "react-loader-spinner": "^3.1.14",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-spring": "^8.0.27",
+    "react-window-size": "^1.2.2",
+    "styled-components": "^5.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
