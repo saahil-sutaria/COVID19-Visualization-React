@@ -68,11 +68,11 @@ export default class App extends React.Component{
                <Card.Footer className="effect7 bg-dark text-white">
                    - by Sahil Sutaria
                    &nbsp;
-                        <a href="https://www.linkedin.com/in/sahilsutaria/">
+                        <a href="https://github.com/saahil-sutaria/">
                             <img width="28px"  height="28px"   src="https://github.com/saahil-sutaria/WishlistReact/blob/master/public/git.png?raw=true"/>  </a>
                    &nbsp;
                    &nbsp;
-                   <a href="https://github.com/saahil-sutaria/CoronaVirusTrackerReact/">
+                   <a href="https://www.linkedin.com/in/sahilsutaria/">
                     <img width="25px"  height="25px"  src="https://github.com/saahil-sutaria/WishlistReact/blob/master/public/linkedin.png?raw=true"/>
                    </a>
                </Card.Footer>
