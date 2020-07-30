@@ -10,7 +10,7 @@ function About(){
                 <Nav></Nav>
                 <br/>
 
-                <ComingSoon title="Coming Soon" bgColor="#fff" textColor="#212121" date="Tue Jul 28 2020 00:00:00 GMT-0700 (Pacific Daylight Time)" illustration="react" />
+                <ComingSoon title="Coming Soon" bgColor="#fff" textColor="#212121" date="Tue Sep 28 2020 00:00:00 GMT-0700 (Pacific Daylight Time)"  />
             </div>
         );
 

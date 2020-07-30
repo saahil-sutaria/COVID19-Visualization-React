@@ -12,7 +12,7 @@ function News(){
         <div >
             <Nav></Nav>
             <br/>
-            <ComingSoon title="Coming Soon" bgColor="#fff" textColor="#212121" date="Tue Jul 25 2020 00:00:00 GMT-0700 (Pacific Daylight Time)" illustration="git" />
+            <ComingSoon title="Coming Soon" bgColor="#fff" textColor="#212121" date="Tue Sep 25 2020 00:00:00 GMT-0700 (Pacific Daylight Time)"  />
 
         </div>
 
